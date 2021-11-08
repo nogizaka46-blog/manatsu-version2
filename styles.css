@@ -1,0 +1,21 @@
+header {
+    color: black;
+    padding: auto;
+    border-radius: 15px;
+    text-align: center;
+}
+
+body {
+    background-color: #884898;
+}
+
+.blog {
+    background-color: aliceblue;
+    margin: 15px 10%;
+    padding: 70px 100px;
+    border-radius: 15px;
+}
+
+.contents {
+    padding: 0% 0%;
+}
